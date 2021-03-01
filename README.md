@@ -1,2 +1,2 @@
-# circuit-analysis
-circuit analysis class materials of CUC
+# 电路分析
+中国传媒大学课程《电路分析》笔记以及课后作业
